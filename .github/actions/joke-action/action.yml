@@ -1,0 +1,7 @@
+name: "Joke Action"
+
+description: "This is a joke"
+
+runs:
+  using: "node16"
+  main: "index.js"
